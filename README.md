@@ -1,0 +1,1 @@
+# ansible-role-fhem_on_fedora
